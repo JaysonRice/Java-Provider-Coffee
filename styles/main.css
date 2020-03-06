@@ -1,6 +1,7 @@
 @import "./employee.css";
 @import "./product.css";
 @import "./equipment.css";
+@import "./footer.css";
 
 .container {
     display: flex;
