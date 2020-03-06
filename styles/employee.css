@@ -1,0 +1,17 @@
+.employeeContainer {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
+
+.employee {
+margin: 1rem;
+padding: 0.5rem;
+border: solid black;
+}
+
+.employee__first__name {
+    margin: 0.5rem 0rem;
+    font-weight: bold;
+}
