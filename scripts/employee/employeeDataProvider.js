@@ -7,14 +7,14 @@ const employees = [
         id: 1,
         firstName: "Madi",
         lastName: "Peper",
-        jobTitle: "I own this bish",
+        jobTitle: "Owner",
         hoursScheduled: 2
     },
     {
         id: 2,
         firstName: "Mo",
         lastName: "Silvera",
-        jobTitle: "Co-own this bish",
+        jobTitle: "Co-owner",
         hoursScheduled: 2
     },
     {
@@ -29,11 +29,11 @@ const employees = [
         firstName: "Kitty",
         lastName: "Purry",
         jobTitle: "Greeter",
-        hoursScheduled: 0
+        hoursScheduled: 8
     },
     {
         id: 5,
-        firstName: "White",
+        firstName: "Bill",
         lastName: "Board",
         jobTitle: "Barista",
         hoursScheduled: 10
@@ -41,7 +41,7 @@ const employees = [
     {
         id: 6,
         firstName: "Adam",
-        lastName: "Shhhhhhhheaffer",
+        lastName: "Shhheaffer",
         jobTitle: "Hipster Sweater Representative",
         hoursScheduled: 201
     }

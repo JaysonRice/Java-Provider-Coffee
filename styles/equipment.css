@@ -12,6 +12,6 @@ border: solid black;
 }
 
 .equipment__model {
-    margin: 0.5rem 0rem;
     font-weight: bold;
+    font-size: 1.2rem;
 }

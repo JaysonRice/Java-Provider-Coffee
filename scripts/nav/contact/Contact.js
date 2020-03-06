@@ -1,10 +1,7 @@
 export const Contact = (contactObject) => {
     return `
-        <p>
-            ${contactObject.infoType}:
-        </p>
-        <p>
-            ${contactObject.info}
+        <p class=contact__info>
+            ${contactObject.infoType}: ${contactObject.info}
         </p>
     `
 }
