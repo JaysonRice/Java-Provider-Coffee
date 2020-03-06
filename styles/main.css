@@ -3,6 +3,15 @@
 @import "./equipment.css";
 @import "./footer.css";
 
+.java__header {
+    font-size: 3rem;
+    text-align: center;
+}
+
+header .businessName {
+margin: .2rem 0rem;
+}
+
 .container {
     display: flex;
     justify-content: space-around;

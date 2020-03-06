@@ -1,5 +1,5 @@
 export const BusinessName = () => {
     return `
-    <p>Java Provider</p>
+    <p class="businessName">Java Provider</div>
     `
 }
