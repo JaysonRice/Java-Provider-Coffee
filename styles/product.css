@@ -6,12 +6,13 @@
 }
 
 .product {
-margin: 1rem;
-padding: 0.5rem;
-border: solid black;
+    margin: 0.3rem 1rem;
+    padding: 0.5rem;
+    border: solid black;
+    background-color: white;
 }
 
 .product__name {
-    margin: 0.5rem 0rem;
+    margin-bottom: 0.5 rem;
     font-weight: bold;
 }

@@ -12,7 +12,7 @@ const EmployeeList = () => {
     }
 
     employeeElement.innerHTML = `
-        <h4>Employees</h4>
+        <h4 class="header">Employees</h4>
         ${employeeHTMLRepresentations}
 `
 }

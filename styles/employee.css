@@ -6,12 +6,13 @@
 }
 
 .employee {
-margin: 1rem;
-padding: 0.5rem;
-border: solid black;
+    margin: .3rem 1rem;
+    padding: 0.5rem;
+    border: solid black;
+    background-color: white;
 }
 
 .employee__name {
-    margin: 0.5rem 0rem;
+    margin-bottom: 0.5rem;
     font-weight: bold;
 }

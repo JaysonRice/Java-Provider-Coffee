@@ -12,7 +12,7 @@ const ProductList = () => {
     }
 
     productElement.innerHTML = `
-        <h4>Products</h4>
+        <h4 class="header">Products</h4>
         ${productHTMLRepresentations}
 `
 }
