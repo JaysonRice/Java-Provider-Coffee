@@ -5,7 +5,7 @@
 const products = [
     {
         id: 1,
-        name: "The best",
+        name: "The Best",
         beanType: "Ethiopian",
         roastType: "dark",
         price: "4.99"
@@ -26,6 +26,6 @@ const products = [
     }
 ]
 
-export const useProducts = () => {
+export const useProduct = () => {
     return products.slice()
 }

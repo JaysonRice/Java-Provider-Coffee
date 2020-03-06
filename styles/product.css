@@ -1,18 +1,18 @@
-.employeeContainer {
+.productContainer {
     display: flex;
     flex-direction: column;
     text-align: center;
     
 }
 
-.employee {
-    margin: .3rem 1rem;
+.product {
+    margin: 0.3rem 1rem;
     padding: 0.5rem;
     border: solid black;
     background-color: white;
 }
 
-.employee__name {
-    margin-bottom: 0.5rem;
+.product__name {
+    margin-bottom: 0.5 rem;
     font-weight: bold;
 }

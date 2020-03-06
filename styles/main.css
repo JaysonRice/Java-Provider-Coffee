@@ -1,1 +1,25 @@
 @import "./employee.css";
+@import "./product.css";
+@import "./equipment.css";
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.equipmentContainer {
+    flex-basis: 47%;
+    border: solid black 2px;
+}
+
+.companyInfoContainer {
+    flex-basis: 47%;
+    border: solid black 2px;
+    background-color: rgb(207, 207, 207);
+}
+
+.header {
+    font-size: 2em;
+    margin: 0rem;
+
+}

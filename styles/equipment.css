@@ -1,0 +1,17 @@
+.equipmentContainer {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
+
+.equipment {
+margin: 1rem;
+padding: 0.5rem;
+border: solid black;
+}
+
+.equipment__model {
+    margin: 0.5rem 0rem;
+    font-weight: bold;
+}
