@@ -2,17 +2,17 @@ const contactInfo = [
     {
         id: 1,
         info: "javaprovider@java.com",
-        infoType: "email"
+        infoType: "Email"
     },
     {
         id: 2,
-        info: "6145874456",
-        infoType: "phone number"
+        info: "(614) 587-4456",
+        infoType: "Phone Number"
     },
     {
         id: 3,
         info: "@javasip",
-        infoType: "instagram handle"
+        infoType: "Instagram Handle"
     }
 ]
 
